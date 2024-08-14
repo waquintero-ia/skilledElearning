@@ -18,16 +18,16 @@ const Hero = () => {
           </a>
           </div>
         <div className="container-image-mobile flex justify-center items-center h-320 md:hidden z-0">
-          <img className='mb-[-60px] scale-[128%] background' src='/assets/image-hero-mobile.png' loading='lazy' decoding='async' alt='women drinking coffee'/>
+          <img className='mb-[-60px] scale-[128%] background' src='./assets/image-hero-mobile.png' loading='lazy' decoding='async' alt='women drinking coffee'/>
         </div>
       </div>
 
       <div className="hero-image-container w-328 h-400 custom-344:hidden xs:hidden md:block xl-custom:hidden z-0">
-        <img className="scale-[210%] mt-[-50px] ml-[160px]" src="/assets/image-hero-tablet.png"/>
+        <img className="scale-[210%] mt-[-50px] ml-[160px]" src="./assets/image-hero-tablet.png"/>
       </div>
 
       <div className="hero-image-container w-544 h-400 custom-344:hidden xs:hidden md:hidden xl-custom:w-544 xl-custom:block z-0">
-        <img className="scale-[190%] mt-[-85px] ml-[240px]" src="/assets/image-hero-desktop.png"/>
+        <img className="scale-[190%] mt-[-85px] ml-[240px]" src="./assets/image-hero-desktop.png"/>
       </div>
 
     </div>
