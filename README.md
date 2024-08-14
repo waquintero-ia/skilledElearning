@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/skilled-e-learning-landing-react-tailwind-css-wnnfDJPxor](https://your-solution-url.com)
 - Live Site URL: [https://waquintero-ia.github.io/skilledElearning/](https://your-live-site-url.com)
 
 ## Author
