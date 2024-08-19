@@ -23,11 +23,11 @@ const Hero = () => {
       </div>
 
       <div className="hero-image-container w-328 h-400 custom-344:hidden xs:hidden md:block xl-custom:hidden z-0">
-        <img className="scale-[210%] mt-[-50px] ml-[160px]" src="./assets/image-hero-tablet.png"/>
+        <img className="scale-[210%] mt-[-50px] ml-[160px]" src="./assets/image-hero-tablet.png" alt="women"/>
       </div>
 
       <div className="hero-image-container w-544 h-400 custom-344:hidden xs:hidden md:hidden xl-custom:w-544 xl-custom:block z-0">
-        <img className="scale-[190%] mt-[-85px] ml-[240px]" src="./assets/image-hero-desktop.png"/>
+        <img className="scale-[190%] mt-[-85px] ml-[240px]" src="./assets/image-hero-desktop.png" alt="women"/>
       </div>
 
     </div>
